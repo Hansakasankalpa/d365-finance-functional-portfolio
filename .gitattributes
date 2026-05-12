@@ -1,0 +1,4 @@
+# Exclude tooling from GitHub Linguist language stats so the repo
+# reads as a documentation portfolio, not a script library.
+_automation/* linguist-vendored
+*.ps1 linguist-vendored
