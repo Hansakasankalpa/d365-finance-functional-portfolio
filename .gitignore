@@ -1,27 +1,29 @@
 # Capture daemon raw output (review locally, only published shots get committed)
 **/_inbox/
-**/_inbox
 
 # OS
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Editor
+# Editor and local tool config
 .vscode/
 .idea/
+.claude/
+
+# Local working files
+TODO.md
+*next_session*.md
+_local/
+_planning/
+_automation/scraper/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
 
 # Temp
 *.tmp
 *.bak
 ~$*
-
-# Local planning — never pushed
-TODO.md
-*next_session*.md
-*NEXT_SESSION*.md
-_local/
-
-# Claude Code instructions — internal, never pushed
-CLAUDE.md
-_planning/
