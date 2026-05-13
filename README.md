@@ -10,16 +10,23 @@ I'm working through this on a weekly cadence alongside the MB-310 certification.
 
 ```
 Module 01  Legal Entity & Organization Setup     in progress
-Module 02  Currencies & Exchange Rates           not started
-Module 03  Fiscal Calendars, Years & Periods     not started
-Module 04  Chart of Accounts & Main Accounts     not started
-Module 05  Financial Dimensions                  not started
-Module 06  Ledger Setup & Journals               not started
-Module 07  Accounts Payable                      not started
-Module 08  Accounts Receivable                   not started
-Module 09  Cash & Bank Management                not started
-Module 10  Fixed Assets                          not started
+Module 02  Finance Essentials                    not started
+Module 03  Chart of Accounts                     not started
+Module 04  Financial Dimensions                  not started
+Module 05  Ledgers & Journals                    not started
+Module 06  Intercompany, Allocations & Accruals  not started
+Module 07  Periodic Processes & Analytics        not started
+Module 08  Cash & Bank Management                not started
+Module 09  Taxes                                 not started
+Module 10  Accounts Receivable                   not started
+Module 11  Credit & Collections                  not started
+Module 12  Accounts Payable                      not started
+Module 13  Expense Management                    not started
+Module 14  Budgeting                             not started
+Module 15  Fixed Assets                          not started
 ```
+
+Module 01 covers the legal-entity foundation that every later module assumes. Modules 02 onward follow the MB-310 (Dynamics 365 Finance Functional Consultant) learning paths.
 
 ## Background
 
