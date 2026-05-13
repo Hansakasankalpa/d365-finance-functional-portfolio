@@ -1,6 +1,6 @@
 # D365 Finance Functional Portfolio
 
-I'm Hansaka Sankalpa, a Senior Accountant in Colombo. I've spent seven years inside accounting departments at KPMG Sri Lanka, Six Senses Maldives (via Sustainable Luxury Lanka), and Ophir Private Limited. Across all three I worked inside an ERP that someone else had configured. I want to be the person making those configuration choices instead of working around them.
+I'm Hansaka Sankalpa, a Senior Accountant in Colombo. I've spent seven years inside auditing & accounting departments at KPMG Sri Lanka, Six Senses Maldives (via Sustainable Luxury Lanka), and Ophir Private Limited. Across all three I worked inside an ERP that someone else had configured. I want to be the person making those configuration choices instead of working around them.
 
 This repository documents that transition. Each module walks through a piece of Microsoft Dynamics 365 Finance & Operations the way an accountant needs to understand it: what SLFRS or IFRS requires, how D365 satisfies it, and what breaks downstream when you get it wrong. Every screenshot is from a Contoso demo environment. No client data appears anywhere in this repo.
 
